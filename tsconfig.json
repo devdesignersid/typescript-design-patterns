@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "CommonJS",
+        "lib": ["ES2017", "ES7", "ES6", "DOM"],
+        "declaration": true,
+        "outDir": "build",
+        "strict": true,
+        "esModuleInterop": true
+    },
+    "exclude": ["node_modules", "build"]
+}

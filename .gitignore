@@ -1,0 +1,15 @@
+# Build Folder
+build
+
+# Environment Files
+.env
+
+# Dependencies
+node_modules
+
+# OS metadeta
+.DS_Store
+Thumbs.db
+
+# ignore yarn.lock
+yarn.lock
